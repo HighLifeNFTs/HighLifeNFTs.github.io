@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-07-16
-img: Ed Edd and Eddy.png
+img: <img src="img/portfolio/ed edd and eddy.png{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
 alt: image-alt
 project-date: July 2022
 client: Cornelius
