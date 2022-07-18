@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-05-31
-img: <img src="img/portfolio/fly high.png{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+img: fly high.png
 alt: image-alt
 project-date: May 2022
 artist: Quadre
