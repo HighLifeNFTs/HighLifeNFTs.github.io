@@ -7,5 +7,5 @@ alt: image-alt
 project-date: July 2022
 artist: Cornelius
 category: High Life
-description: Strain-Jawbreaker, THC Level-98.995%
+description: Strain-Jawbreaker, THC Level-98.995% https://jumpnet.enjinx.io/eth/asset/58c0000000003654/
 ---
