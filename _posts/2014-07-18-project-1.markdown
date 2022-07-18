@@ -5,7 +5,7 @@ date: 2022-05-31
 img: <img src="img/portfolio/fly high.png{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
 alt: image-alt
 project-date: May 2022
-client: Start Bootstrap
-category: Web Development
+client: Quadre
+category: High Life
 description: Owners of these NFTs will be included in special giveaways, free airdrops from our second collection + more to come. Follow @HighLifeNFTs on Twitter
 ---
