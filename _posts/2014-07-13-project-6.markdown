@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2022-07-16
+img: Ed Edd and Eddy.png
+alt: image-alt
+project-date: July 2022
+client: Cornelius
+category: High Life
+description: Strain: Jawbreaker, THC Level: 98.995%
+---
