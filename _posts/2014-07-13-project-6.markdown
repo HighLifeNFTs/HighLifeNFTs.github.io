@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 date: 2022-07-16
 img: ed edd and eddy.png
-alt: image-alt
+alt: ed edd and eddy
 project-date: July 2022
 artist: Cornelius
 category: High Life
