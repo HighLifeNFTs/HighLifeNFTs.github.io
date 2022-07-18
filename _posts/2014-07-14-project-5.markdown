@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2022-06-27
+img: power puff.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2022
+artist: Cornelius
+category: High Life
+description: Sativa, Indica, and Wax extract. These were the ingredients chosen to create the perfect little girl but professor Corn accidentally added an extra ingredient to the concoction…. Edible X
 ---
