@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 6
-date: 2022-07-18
+modal-id: 1
+date: 2022-05-31
 img: <img src="img/portfolio/fly high.png{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
 alt: image-alt
 project-date: May 2022
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Owners of these NFTs will be included in special giveaways, free airdrops from our second collection + more to come. Follow @HighLifeNFTs on Twitter
 ---
