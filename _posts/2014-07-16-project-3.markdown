@@ -5,7 +5,7 @@ date: 2022-06-06
 img: trippy billy.jpg
 alt: image-alt
 project-date: June 2022
-artist: Quadre 
+client: Quadre 
 category: Sketchbook
 description:  I Think The Shrooms🍄 Starting To Kick In🥴  Follow @HighLifeNFTs on Twitter  Created by Quadre From The High Life NFT Project. https://jumpnet.enjinx.io/eth/asset/18c0000000003372/
 ---
