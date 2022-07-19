@@ -5,7 +5,7 @@ date: 2022-06-27
 img: power puff.png
 alt: image-alt
 project-date: June 2022
-artist: Cornelius
+client: Cornelius
 category: High Life
 description: Sativa, Indica, and Wax extract. These were the ingredients chosen to create the perfect little girl but professor Corn accidentally added an extra ingredient to the concoction…. Edible X https://jumpnet.enjinx.io/eth/asset/58c00000000034f0/
 ---
