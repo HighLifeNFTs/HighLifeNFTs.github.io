@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2022-05-31
-img: stoned shaggy.png
+img: IMG_9878.JPG
 alt: image-alt
 project-date: May 2022
 client: Cornelius
 category: High Life
-description: Ever wondered why shaggy was alway eating and talking to a dog!? He was high as fck! Original Design by Corn Follow @HighLifeNFTs on Twitter Owners of these NFTs will be included in special giveaways, free airdrops from our second collection + more to come. https://jumpnet.enjinx.io/eth/asset/78c0000000003308/
+description: Ever wondered why shaggy was alway eating and talking to a dog!? He was high as fck! Original Design by Corn Follow @HighLifeNFTs on Twitter Owners of these NFTs will be included in special giveaways, free airdrops from our second collection + more to come. [https://jumpnet.enjinx.io/eth/asset/78c0000000003308/](https://jumpnet.enjinx.io/eth/asset/18c00000000037d9/)
 ---
