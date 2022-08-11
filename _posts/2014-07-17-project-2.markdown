@@ -7,5 +7,5 @@ alt: image-alt
 project-date: May 2022
 client: Cornelius
 category: High Life
-description: While traveling through dimensions Rick and his grandson find themselves stuck in an alternated reality, where there identities were slick and forty. Follow @HighLifeNFTs on Twitter Owners of these NFTs will be included in special giveaways, free airdrops from our second collection + more to come. [https://jumpnet.enjinx.io/eth/asset/78c0000000003308/](https://jumpnet.enjinx.io/eth/asset/18c00000000037d9/)
+description: While traveling through dimensions Rick and his grandson find themselves stuck in an alternated reality, where there identities were slick and forty. Follow @HighLifeNFTs on Twitter Owners of these NFTs will be included in special giveaways, free airdrops from our second collection + more to come. https://jumpnet.enjinx.io/eth/asset/18c00000000037d9/
 ---
